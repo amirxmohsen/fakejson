@@ -1,7 +1,7 @@
 {
     "Appinfo":
     {
-        "ADS":false,
+        "ADS":true,
       "VERSIONS":["1.0","1.01"]
     }
   ,
